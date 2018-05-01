@@ -50,8 +50,12 @@ Links to code for inferring who infected whom
   - [Paper](https://elifesciences.org/articles/16644)
   - [Code](https://github.com/xavierdidelot/TransPairs)
 - BADTRIP, BEAST2 package
-  - [Paper](https://www.biorxiv.org/content/early/2017/11/08/213819)
+  - [Paper](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006117)
   - [Code](https://bitbucket.org/nicofmay/badtrip)
+- QUENTIN (python/matlab)
+  - [Paper](https://academic.oup.com/bioinformatics/article/34/1/163/38704839)
+  - [MATLAB Code](https://github.com/skumsp/quentin)
+  - [Python Code](https://github.com/walkergussler/quentin)
 
 ## Other relevant papers
 
